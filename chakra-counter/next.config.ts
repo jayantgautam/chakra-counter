@@ -1,4 +1,4 @@
-import type { NextConfig } from "next";    hhhhhh
+import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {};
 
